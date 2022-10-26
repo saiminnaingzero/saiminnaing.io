@@ -1,0 +1,21 @@
+
+.myprojects{
+    display:none;
+}
+@media only screen and (max-width: 00px) {
+    photo1{
+        
+        display:none;
+    }
+
+}
+:root {
+  --blue:rgb(6, 13, 135);
+  --red:rgb(255, 0, 51);
+}
+#text{
+    color:rgb(30, 5, 255);
+}
+#line{
+    border-bottom:3px solid black;
+}
